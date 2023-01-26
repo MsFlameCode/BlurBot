@@ -16,7 +16,7 @@ import statInfo
 import process
 
 try:
-    bot = Bot(token='5870844281:AAEzkcGzefyqEKVsQEfVppmnYtoYMwqVqLs')
+    bot = Bot(token='...')
     dp = Dispatcher(bot)
 
     # получим текущую дату:
