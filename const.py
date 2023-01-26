@@ -1,0 +1,12 @@
+CONST_COUNT = 0
+CONST_FRONT_NAME = "Lobster-Regular.ttf"
+CONST_COLOR_NAME = "white"
+CUR_NAME = ""
+user_set = set()
+PHOTO_NAME = ""
+STICKER_NAME = ""
+IS_PHOTO = False
+BLOCK_COUNT = 0
+ID_ADMIN = 241410421
+LAST_DAY = 0
+active_users_set = set()
